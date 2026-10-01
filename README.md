@@ -6,14 +6,14 @@ CS344 Web Engineering, Lab 3. A multi-page portfolio in plain HTML and CSS (no J
 
 ```
 portfolio/
-├── index.html
-├── skills.html
-├── hobbies.html
-├── gallery.html
-├── contact.html
-├── css/style.css
-├── images/photo1.jpg ... photo6.jpg
-└── README.md
+â”œâ”€â”€ index.html
+â”œâ”€â”€ skills.html
+â”œâ”€â”€ hobbies.html
+â”œâ”€â”€ gallery.html
+â”œâ”€â”€ contact.html
+â”œâ”€â”€ css/style.css
+â”œâ”€â”€ images/photo1.jpg ... photo6.jpg
+â””â”€â”€ README.md
 ```
 
 ## Features
@@ -22,4 +22,4 @@ portfolio/
 - Side-by-side columns and the image gallery built with `float` and `clear`
 - Deployed with GitHub Pages
 
-Live site: https://USERNAME.github.io/portfolio/
+Live site: https://abdullahchheema.github.io/portfolio/
