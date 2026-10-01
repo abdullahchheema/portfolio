@@ -2,18 +2,20 @@
 
 CS344 Web Engineering, Lab 3. A multi-page portfolio in plain HTML and CSS (no JavaScript, no frameworks).
 
+Author: Abdullah Imran, BE Software Engineering, SEECS, NUST Islamabad
+
 ## Structure
 
 ```
 portfolio/
-â”œâ”€â”€ index.html
-â”œâ”€â”€ skills.html
-â”œâ”€â”€ hobbies.html
-â”œâ”€â”€ gallery.html
-â”œâ”€â”€ contact.html
-â”œâ”€â”€ css/style.css
-â”œâ”€â”€ images/photo1.jpg ... photo6.jpg
-â””â”€â”€ README.md
+|-- index.html
+|-- skills.html
+|-- hobbies.html
+|-- gallery.html
+|-- contact.html
+|-- css/style.css
+|-- images/photo1.jpg ... photo6.jpg
+`-- README.md
 ```
 
 ## Features
