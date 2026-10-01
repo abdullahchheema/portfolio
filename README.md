@@ -14,7 +14,7 @@ portfolio/
 |-- gallery.html
 |-- contact.html
 |-- css/style.css
-|-- images/photo1.jpg ... photo6.jpg
+|-- images/photo1.jpg
 `-- README.md
 ```
 
